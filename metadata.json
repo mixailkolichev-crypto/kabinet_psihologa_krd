@@ -1,0 +1,8 @@
+{
+  "name": "Кабинет психолога психотерапевта",
+  "description": "Профессиональный сайт кабинета психолога и психотерапевта Андрея в Краснодаре с онлайн-записью, списком услуг и отзывами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
